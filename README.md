@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/pcastrejonv/Parts%20Unlimited/_apis/build/status/PartsUnlimitedE2E?branchName=master)](https://dev.azure.com/pcastrejonv/Parts%20Unlimited/_build/latest?definitionId=1&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
